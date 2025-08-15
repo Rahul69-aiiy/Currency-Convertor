@@ -25,7 +25,7 @@ A simple and responsive **Currency Converter** web application that allows users
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/Rahul69-aiiy/currency-converter.git
    cd currency-converter
 2. **Open in browser**
    ```bash
